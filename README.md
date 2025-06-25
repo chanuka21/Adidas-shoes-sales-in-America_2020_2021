@@ -7,10 +7,15 @@ regional trends, and product-wise performance to support strategic business deci
 🔍 Key Features:
 
  ✅ Total Sales, Profit & Units Sold Overview 💵
+ 
  ✅ Monthly Sales Trend Visualization 📆
+ 
  ✅ Regional Sales Distribution 🌎
+ 
  ✅ Product Category Sales Breakdown 👟👚
+ 
  ✅ State-wise Sales Heatmap 📍
+ 
  ✅ Top Performing Retailers Comparison 🛒
  
 By leveraging Power BI's rich visualization capabilities, I transformed raw Excel data into actionableinsights. 
