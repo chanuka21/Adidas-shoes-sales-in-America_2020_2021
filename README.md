@@ -33,7 +33,7 @@ The Shoes Sales Analysis project helps uncover key business insights such as:
 - Provided clear visualizations for strategic business decisions
 
 ## 📊 Dashboard Preview
-
+![Pizza Sales Dashboard](dashboard1.png)
 
 
 ## 🚀 Future Improvements
